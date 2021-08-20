@@ -1,6 +1,7 @@
 #pragma once
 
 #include <memory>
+#include <stdexcept>
 #include "Scheduler.hpp"
 #include "HelloWorld.hpp"
 
